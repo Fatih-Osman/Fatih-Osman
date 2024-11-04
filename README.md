@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Fatih-Osman
+- 👀 I’m interested in Cloud Security, Microsoft Azure, and ISO standards for cybersecurity.
+- 🌱 I’m currently learning advanced Azure Cloud Solution Architecting and Azure Cloud Security Architecting, with a focus on GitHub and Terraform.
+- 💞️ I’m looking to collaborate on cloud security projects, especially those involving ISO 27001, 27017, and 27018 certifications.
+- 📫 How to reach me: [🏅]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a background in cybersecurity, incident response, and vulnerability management, and I love learning about new AI technologies!
